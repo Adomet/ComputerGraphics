@@ -1,0 +1,14 @@
+﻿  CG.cpp
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(16,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(27,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(35,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(41,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(65,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(68,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(69,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(74,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(75,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(391,18): warning C4244: 'initializing': conversion from 'GLsizei' to 'float', possible loss of data
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(392,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\ComputerGraphics\CG.cpp(437,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ComputerGraphics.vcxproj -> C:\Users\MMD\Desktop\Notlar\2021 Ders\CG\ComputerGraphics\Debug\ComputerGraphics.exe
